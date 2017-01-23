@@ -1,0 +1,1 @@
+<?php exit;//a:3:{i:0;a:3:{s:4:"link";s:15:"会计大家庭";s:3:"url";s:27:"http://www.kuaijihouse.com/";s:3:"des";s:17:"emlog官方主页";}i:1;a:3:{s:4:"link";s:20:"58edu学习资源网";s:3:"url";s:20:"http://www.58edu.cc/";s:3:"des";s:0:"";}i:2;a:3:{s:4:"link";s:21:"磐石教育手机版";s:3:"url";s:20:"http://m.21stone.cn/";s:3:"des";s:0:"";}}

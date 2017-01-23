@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c>
+					   RewriteEngine on
+					   RewriteCond %{REQUEST_FILENAME} !-f
+					   RewriteCond %{REQUEST_FILENAME} !-d
+					   RewriteRule ^post-([0-9]+)\.html$ index.php?post=$1
+					   RewriteRule ^page-([0-9]+)\.html$ index.php?page=$1
+					   RewriteRule ^(\w+)/post-([0-9]+)\.html$ index.php?post=$2
+					   
+					</IfModule>
